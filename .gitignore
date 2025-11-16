@@ -1,0 +1,27 @@
+# Build folders
+build/
+CMakeFiles/
+cmake-build*/
+out/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# CUDA compiled objects
+*.cu.o
+*.ptx
+
+# VSCode (optional)
+.vscode/
+
+# Generated videos
+*.mp4
+*.avi
+
+# CMake cache
+CMakeCache.txt
+cmake_install.cmake
+Makefile
